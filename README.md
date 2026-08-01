@@ -38,15 +38,7 @@ Done-for-you AI marketing for clinics. It generates the creative, runs the funne
 
 ---
 
-### 🔵 Clincy
 
-<img src="assets/clincy.png" alt="Clincy" width="620" />
-
-An AI front desk for dental practices. It answers, qualifies and books while the phone would otherwise ring out. The unglamorous truth is that intake is where most clinic marketing budgets quietly die, so this is the highest leverage software I have built.
-
-→ [heyclincy.com](https://heyclincy.com)
-
----
 
 ### 🟢 Helm
 
