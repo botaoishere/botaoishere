@@ -26,9 +26,9 @@ Three levers, in the order they actually pay:
 
 ---
 
-## 🏥 Core Work
+## 🏥 Core Projects
 
-### 🔷 ClinAds
+### 🔷 ClinAds Software 
 
 <img src="assets/clinads.png" alt="ClinAds" width="620" />
 
@@ -135,13 +135,12 @@ Paste a website, get its real competitors and a live prompt by company visibilit
 `Next.js` · `React` · `TypeScript` · `Node.js` · `Python` · `Tailwind`
 `Prisma` · `Postgres` · `Redis` · `Docker` · `AWS ECS` · `Cloudflare Workers` · `Vercel` · `Railway`
 
-Comfortable anywhere there is a terminal. Most of what I ship runs on a queue and a cron.
+Comfortable anywhere there is a terminal. Mos
 
 ---
 
 ## 🧠 How I work
 
-- **Ship before it is perfect, then fix it in public.** A shipped thing generates information. A perfect thing sitting in a branch generates nothing.
 - **Automate anything that takes two minutes by hand.** Twice is a coincidence. Three times is a script.
 - **Instrument first.** If I cannot measure it, I am not optimising it, I am guessing at it.
 - **Small tools over frameworks.** One file, no dependencies, no build step. It still runs in three years.
